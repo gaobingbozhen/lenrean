@@ -1,4 +1,4 @@
-#学习笔记一   特殊字符的创建
+# lenrean  
 
 System.out.println(URLEncoder.encode("xml=<jianxiaotian='gaolkjdsaof'>", "UTF-8"));
 #输出为xml%3D%3Cjianxiaotian%3D%27gaolkjdsaof%27%3E
