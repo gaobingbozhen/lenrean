@@ -1,0 +1,2 @@
+SELECT * FROM `route_area`   WHERE LENGTH(`AREA_CODE`)<>CHARACTER_LENGTH(`AREA_CODE`)
+判断一个字符串是否有中文
